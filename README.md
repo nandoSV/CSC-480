@@ -1,2 +1,2 @@
-# CSC-480
+# CSC-480 / nandoSV
 GitHub and Project Management via Kanban
